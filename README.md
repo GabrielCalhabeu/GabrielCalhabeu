@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Calhabeu</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Gabriel Calhabeu</h1>
 
 - 🌱 I’m currently learning javascript and typescript development
 - 👨‍💻 I’m currently studying Information Systems at UFOP - Federal University of Ouro Preto
