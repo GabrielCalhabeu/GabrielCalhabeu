@@ -5,7 +5,7 @@
 - 👨‍💻 I’m currently studying Information Systems at UFOP - Federal University of Ouro Preto
 - ⚡ Fun fact: I play the piano and also am a music producer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omouravictor&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=24292f&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCalhabeu&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=24292f&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3>Connect with me : ^)</h3>
